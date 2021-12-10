@@ -26,6 +26,8 @@ import ReactMemo from "./components/advanced/components/react-memo/ReactMemo";
 // in react u have to basically make building blocks
 // components so the jsx file is more simple and clean
 
+// DEV READY
+
 function App() {
   return (
     <Layout>
