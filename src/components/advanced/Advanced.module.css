@@ -1,0 +1,20 @@
+.container {
+  display: grid;
+  width: 90%;
+  margin: 30px auto;
+}
+.appName {
+  color: #fff;
+  text-align: center;
+}
+.nav {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  align-self: center;
+  gap: 2rem;
+}
+.link {
+  color: #fff;
+  text-decoration: none;
+}

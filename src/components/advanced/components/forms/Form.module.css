@@ -1,0 +1,35 @@
+h3,
+h1,
+div,
+section {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: grid;
+  width: 90%;
+  margin: 30px auto;
+}
+.title {
+  text-align: center;
+  color: #fff;
+  margin: 15px;
+}
+.btn {
+  width: 50px;
+  justify-self: center;
+}
+.link {
+  justify-self: center;
+  margin-bottom: 10px;
+  color: #fff;
+}
+.li {
+  list-style-type: none;
+}
+.formDiv {
+  justify-self: center;
+}
+.formDiv label {
+  color: #fff;
+}

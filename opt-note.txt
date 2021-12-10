@@ -1,0 +1,11 @@
+Memmoizing : caching results (remember)
+REACT IS FAST BY DEFAULT
+OPTIMIZATIONS ADD THEIR OWN COSTS!!!
+CAREFULLL
+
+React.memo 
+useCallback
+useMemo
+
+good read
+https://kentcdodds.com/blog/usememo-and-usecallback

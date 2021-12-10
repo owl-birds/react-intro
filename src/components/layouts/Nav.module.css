@@ -1,0 +1,15 @@
+.header {
+  height: 5rem;
+}
+.nav {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  align-items: center;
+  justify-items: center;
+  height: 100%;
+  border-bottom: 3px solid #fff;
+}
+.link {
+  color: #fff;
+  text-decoration: none;
+}
